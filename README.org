@@ -1,0 +1,1 @@
+This repo contains implementation of data structures I am learning in my college in C/C++ using Haskell.
